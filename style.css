@@ -7,6 +7,22 @@
     font-size: 30px;
 }
 
+#output-text{
+    width: 250px;
+    height: 120px;
+    float: left;
+}
+#microphone{
+    height: 30px;
+    width: 30px;
+    float: right;
+    background-image: url(mic.png);
+}
+
+.tooltip{
+    visibility: hidden;
+}
+
 #keyboard{
     height: 400px;
 }
